@@ -1,5 +1,5 @@
-File ID,Date of Petition,Was_Withdrawn,Submitter,Submitter Type,Petition Cited Statutes or Regulations,FDA Action Commented On,Requested Action,Justification for Request,Final Decision,Number of Interim Responses,Interim Response Date,Last Response Date,Responding FDA Center,Responses Cited Statutes or Regulations,Justification for Interim Response,Justification for Final Response,Cleaned Final Decision,Response Time (Days)
-FDA-2017-P-0176,2017-01-09,False,"Kleinfeld, Kaplan and Becker, LLP",law/consulting,"- 21 C.F.R. § 10.30 (Citizen Petition procedures)
+File ID,Date of Petition,Was_Withdrawn,Submitter,Submitter Type,Petition Cited Statutes or Regulations,FDA Action Commented On,Requested Action,Justification for Request,Final Decision,Number of Interim Responses,Interim Response Date,Last Response Date,Responding FDA Center,Responses Cited Statutes or Regulations,Justification for Interim Response,Justification for Final Response,Cleaned Final Decision,Year,Response Time (Days)
+fda-2017-p-0176,2017-01-09,False,"Kleinfeld, Kaplan and Becker, LLP",law/consulting,"- 21 C.F.R. § 10.30 (Citizen Petition procedures)
 - 21 C.F.R. § 101.4(h) (Labeling of dietary supplements)
 - 68 Fed. Reg. 51738 (August 28, 2003) – Proposed amendment to 21 C.F.R. § 101.4(h)
 - 21 C.F.R. § 25.30 (Environmental impact exclusion)
@@ -8,8 +8,8 @@ FDA-2017-P-0176,2017-01-09,False,"Kleinfeld, Kaplan and Becker, LLP",law/consult
 2. Issue an Advance Notice of Proposed Rulemaking (ANPRM) to revise 21 C.F.R. § 101.4(h), suggesting that botanical names on supplement labels be consistent with the Herbs of Commerce, 2nd edition (2000), or other appropriate authoritative references","- The current reference (Herbs of Commerce, 1st ed., 1992) is outdated.
 - The 2nd edition (2000) includes standardized common names for ~1,500 more botanicals and updates ~140 names from the 1st edition.
 - Plant taxonomy evolves, and new references reflect more accurate nomenclature.
-- There is a need for clarity and consistency in naming botanical dietary ingredients to reflect modern commerce and ensure regulatory compliance",,1.0,2/2/2018,2018-02-02,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA stated the petition is under active evaluation, but decision-making has been delayed due to competing agency priorities ",,no decision,389.0
-FDA-2017-P-0508,2017-01-25,False,"Union of Concerned Scientists, Center for Science and Democracy",advocacy/academic,"- 5 U.S.C. § 553(e)
+- There is a need for clarity and consistency in naming botanical dietary ingredients to reflect modern commerce and ensure regulatory compliance",,1.0,2/2/2018,2025-10-15,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA stated the petition is under active evaluation, but decision-making has been delayed due to competing agency priorities ",,no decision,2017,3201.0
+fda-2017-p-0508,2017-01-25,False,"Union of Concerned Scientists, Center for Science and Democracy",advocacy/academic,"- 5 U.S.C. § 553(e)
 - 21 C.F.R. § 10.25
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 101.13
@@ -25,8 +25,8 @@ FDA-2017-P-0508,2017-01-25,False,"Union of Concerned Scientists, Center for Scie
 - Added sugar now has a defined DRV (25g for ages 1–3, 50g for 4+)
 - Precedent exists for disqualifying levels for fat, sodium, etc.
 - Prevent misleading claims that make sugar-rich foods appear healthy, especially for children
-- Supported by over 30,000 individuals nationwide",,1.0,7/17/2017,2017-07-17,Center for Food Safety and Applied Nutrition (CFSAN),,The FDA stated that it has not completed review of the petition due to other agency priorities and limited availability of resources. The Agency committed to notify the petitioner once a decision is reached ,,no decision,173.0
-FDA-2017-P-1298,2017-03-02,False,The Good Food Institute (GFI),advocacy/academic,"- 21 C.F.R. § 10.30 (Citizen petition)
+- Supported by over 30,000 individuals nationwide",,1.0,7/17/2017,2025-10-15,Center for Food Safety and Applied Nutrition (CFSAN),,The FDA stated that it has not completed review of the petition due to other agency priorities and limited availability of resources. The Agency committed to notify the petitioner once a decision is reached ,,no decision,2017,3185.0
+fda-2017-p-1298,2017-03-02,False,The Good Food Institute (GFI),advocacy/academic,"- 21 C.F.R. § 10.30 (Citizen petition)
 - 5 U.S.C. § 553(e) (APA right to petition for rulemaking)
 - 21 U.S.C. § 343(a)(1) (FDCA: misbranding due to false or misleading labeling)
 - 21 C.F.R. § 101.3(b) (standard of identity for common food names)
@@ -36,12 +36,12 @@ FDA-2017-P-1298,2017-03-02,False,The Good Food Institute (GFI),advocacy/academic
 - Plant-based labeling provides accurate information and facilitates consumer choice.
 - Restricting these terms would violate the First Amendment and contradict consumer understanding.
 - There is no evidence of consumer confusion over these terms.
-- The FDA’s past enforcement policy has tolerated these labels, and no formal standard excludes plant-based variants from common usage names.",,1.0,8/29/2017,2017-08-29,"Center for Food Safety and Applied Nutrition (CFSAN)
+- The FDA’s past enforcement policy has tolerated these labels, and no formal standard excludes plant-based variants from common usage names.",,1.0,8/29/2017,2025-10-15,"Center for Food Safety and Applied Nutrition (CFSAN)
 ",,"- The petition requested FDA to issue regulations clarifying how foods may be named by reference to the names of other foods.
 - FDA indicated that it had not yet reached a decision due to competing priorities within the agency.
 - They committed to completing review and considering amendments as warranted within the context of other program priorities
-",,no decision,180.0
-FDA-2017-P-1359,2017-03-06,False,"Pharmaceutical Manufacturing Research Services, Inc. (PMRS)",industry/corporation,"- 21 C.F.R. § 10.20
+",,no decision,2017,3149.0
+fda-2017-p-1359,2017-03-06,False,"Pharmaceutical Manufacturing Research Services, Inc. (PMRS)",industry/corporation,"- 21 C.F.R. § 10.20
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 25.31
 - Section 505(b) of the Federal Food, Drug, and Cosmetic Act (FD&C Act)","The FDA’s approval and labeling of:
@@ -54,15 +54,15 @@ FDA-2017-P-1359,2017-03-06,False,"Pharmaceutical Manufacturing Research Services
 - Misuse, addiction, and overdose risks have increased
 - Chronic pain indication contradicts scientific data and public health findings
 - OxyContin was originally approved only for acute use; later changes led to widespread abuse
-- The change contributed to the opioid epidemic; over 200,000 deaths cited",,1.0,8/31/2017,2017-08-31,"Center for Drug Evaluation and Research (CDER)
+- The change contributed to the opioid epidemic; over 200,000 deaths cited",,1.0,8/31/2017,2025-10-15,"Center for Drug Evaluation and Research (CDER)
 ",,"- The petition requested the FDA to revoke certain labeling approvals related to both extended-release and immediate-release opioid products, specifically seeking revocation of:
 1. OxyContin’s chronic use labeling
 2. ER opioids for chronic pain
 3. IR opioids for chronic pain
 4. Replace IR labeling with indications for acute pain only.
 - FDA explained that the petition raised significant and complex issues requiring extensive internal review and analysis by agency officials. Hence, an interim response was issued pending further evaluation
-",,no decision,178.0
-FDA-2017-P-1391,2017-03-03,False,"Epstein Becker & Green, P.C.",law/consulting,"- 21 C.F.R. § 10.30 (Citizen Petition)
+",,no decision,2017,3145.0
+fda-2017-p-1391,2017-03-03,False,"Epstein Becker & Green, P.C.",law/consulting,"- 21 C.F.R. § 10.30 (Citizen Petition)
 - 21 C.F.R. § 10.75 (Internal agency review procedures)
 - 21 C.F.R. § 3.8 (Letter of designation rules)
 - 21 C.F.R. § 25.30 (Environmental impact exclusion)
@@ -74,8 +74,8 @@ FDA-2017-P-1391,2017-03-03,False,"Epstein Becker & Green, P.C.",law/consulting,"
 - Delays violate the Administrative Procedure Act by allowing “arbitrary” and untimely decisions.
 - Delays hinder correction of errors in designation decisions and delay compliance with the 21st Century Cures Act.
 - Innovators lose patent time and are forced to accept erroneous designations.
-- Most importantly, delays harm public health by slowing patient access to new therapies",,,,,,,,,no decision,
-FDA-2017-P-1463,2017-03-08,False,Tate & Lyle Ingredients Americas LLC,industry/corporation,"- 21 C.F.R. § 10.30 (Citizen Petition provision)
+- Most importantly, delays harm public health by slowing patient access to new therapies",,,,2025-10-15,,,,,no decision,2017,3148.0
+fda-2017-p-1463,2017-03-08,False,Tate & Lyle Ingredients Americas LLC,industry/corporation,"- 21 C.F.R. § 10.30 (Citizen Petition provision)
 - 21 C.F.R. § 101.9(c)(1)(i) (caloric value labeling regulation)
 - 21 C.F.R. § 25.31 (Environmental impact exclusion)","The petition comments on FDA's regulation of caloric values listed on nutrition labels, specifically requesting a rulemaking amendment to 21 C.F.R. § 101.9(c)(1)(i) to define a new caloric value for Allulose.
 ","The petitioner requests that FDA:
@@ -85,8 +85,8 @@ FDA-2017-P-1463,2017-03-08,False,Tate & Lyle Ingredients Americas LLC,industry/c
 - The Iida et al. (2010) study estimated the caloric value between 0.20–0.39 kcal/g, supporting Tate & Lyle's position.
 - A rigorous human 14C-labeled radiotracer study showed over 80% urinary recovery, minimal fecal excretion, and negligible 14CO2 in breath, confirming no significant metabolism.
 - Animal studies (e.g., Matsuo 2002) supported these findings, showing Allulose’s energy deposition efficiency was only 0.3% of sucrose.
-- The petitioner emphasizes that labeling Allulose at 0.2 kcal/g reflects the most scientifically accurate and conservative value based on current data. ",,,,,,,,,no decision,
-FDA-2017-P-2164,2017-04-05,False,Steptoe & Johnson LLP,law/consulting,"- 21 C.F.R. §§ 10.25, 10.30, 10.33, 10.35
+- The petitioner emphasizes that labeling Allulose at 0.2 kcal/g reflects the most scientifically accurate and conservative value based on current data. ",,,,2025-10-15,,,,,no decision,2017,3143.0
+fda-2017-p-2164,2017-04-05,False,Steptoe & Johnson LLP,law/consulting,"- 21 C.F.R. §§ 10.25, 10.30, 10.33, 10.35
 - 21 U.S.C. § 343(q)(5)(H)
 - 5 U.S.C. § 553(b)(B), § 706
 - Administrative Procedures Act (APA)
@@ -97,12 +97,12 @@ FDA-2017-P-2164,2017-04-05,False,Steptoe & Johnson LLP,law/consulting,"- 21 C.F.
 - Underestimated Costs: FDA underestimated compliance costs for non-restaurant retailers, which are in the hundreds of millions to billions of dollars.
 - Overreach and Improper Scope: The Final Rule extends beyond what Congress intended by applying to businesses not “similar” to restaurants.
 - First Amendment Concerns: The rule mandates potentially misleading commercial speech and fails to directly advance a substantial government interest.
-- Inconsistency with Federal Policy: The Final Rule conflicts with executive directives aimed at reducing regulatory burdens on businesses. ",,1.0,6/29/2017,2017-06-29,"Center for Food Safety and Applied Nutrition (CFSAN)
+- Inconsistency with Federal Policy: The Final Rule conflicts with executive directives aimed at reducing regulatory burdens on businesses. ",,1.0,6/29/2017,2025-10-15,"Center for Food Safety and Applied Nutrition (CFSAN)
 ",,"- The petition requested a stay and reconsideration of the FDA’s final rule on “Nutrition Labeling of Standard Menu Items in Restaurants and Similar Retail Food Establishments.”
 - FDA explained that they were still reviewing the petition and that they had already extended the compliance date for the rule to May 7, 2018 (as published in the Federal Register on May 4, 2017, 82 Fed. Reg. 20825).
 - FDA also noted they were extending the comment period on the interim final rule by another 30 days and encouraged further comments
-",,no decision,85.0
-FDA-2017-P-3352,2017-05-25,False,"Belcher Pharmaceuticals, LLC",industry/corporation,"- 21 C.F.R. § 10.30 (Citizen petition procedure)
+",,no decision,2017,3115.0
+fda-2017-p-3352,2017-05-25,False,"Belcher Pharmaceuticals, LLC",industry/corporation,"- 21 C.F.R. § 10.30 (Citizen petition procedure)
 - 21 C.F.R. § 201.22(c) (Current sulfite warning regulation)
 - 21 C.F.R. §§ 201.57, 201.100(d) (Labeling requirements)
 - 21 C.F.R. § 25.31 (Environmental impact exclusion)
@@ -115,20 +115,20 @@ FDA-2017-P-3352,2017-05-25,False,"Belcher Pharmaceuticals, LLC",industry/corpora
 - Repeat dosing can exacerbate sulfite reactions and diminish drug efficacy.
 - Sulfonate formation and metabolite persistence in the body can lead to delayed anaphylactic symptoms after treatment.
 - Historical case studies show serious and prolonged adverse effects linked to sulfite-containing treatments.
-- Physicians and patients need accurate labeling to make informed choices in emergencies, especially where safer alternatives are available",,,,,,,,,no decision,
-FDA-2017-P-3413,2017-05-23,False,Salter Labs,advocacy/academic,"- 21 C.F.R. § 10.30 (Citizen petition procedure)
+- Physicians and patients need accurate labeling to make informed choices in emergencies, especially where safer alternatives are available",,,,2025-10-15,,,,,no decision,2017,3065.0
+fda-2017-p-3413,2017-05-23,False,Salter Labs,advocacy/academic,"- 21 C.F.R. § 10.30 (Citizen petition procedure)
 - 21 U.S.C. § 360c(e) (Section 513(e) of the FDCA – reclassification of devices)",FDA’s classification of oxygen conservers as Class II (special controls) medical devices.,The petitioner requests that the FDA reclassify oxygen conservers from Class II to Class I (general controls) devices .,"- Long-standing safety record of oxygen conservers over several decades.
 - No documented safety or effectiveness concerns specific to the devices currently on the market.
 - Current classification imposes unnecessary regulatory burdens that do not correspond to actual risk.
 - Reclassification to Class I would align with the FDA’s goal of risk-based regulation and focus resources on higher-risk devices.
-- Petition references 21 U.S.C. § 360c(e) as the legal basis for requesting reclassification when new information is available showing that special controls are unnecessary .",,,,,,,,,no decision,
-FDA-2017-P-4027,2017-07-01,False,Strides Pharma Inc.,industry/corporation,"- 21 C.F.R. § 10.25(a)
+- Petition references 21 U.S.C. § 360c(e) as the legal basis for requesting reclassification when new information is available showing that special controls are unnecessary .",,,,2025-10-15,,,,,no decision,2017,3067.0
+fda-2017-p-4027,2017-07-01,False,Strides Pharma Inc.,industry/corporation,"- 21 C.F.R. § 10.25(a)
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 25.31",Determination of whether METICORTEN (Prednisone) Tablets 1 mg and 5 mg (NDA N009766) were withdrawn from sale for reasons of safety or effectiveness,"- Determine whether METICORTEN (Prednisone) Tablets 1 mg was discontinued for safety or efficacy reasons
 - If not, accept ANDA 210785 for Prednisone Tablets USP 1 mg for filing and approval using METICORTEN as the reference listed drug (RLD)","- METICORTEN Tablets are listed as ""Discontinued"" in the FDA's Orange Book without a stated reason
 - The petitioner seeks clarity on whether the discontinuation was for safety or effectiveness reasons, as required for ANDA referencing
-- Other generics for Prednisone 1 mg are already on the market, implying potential approval viability",,,,,,,,,no decision,
-FDA-2017-P-4039,2017-07-03,False,Center for Lawful Access and Abuse Deterrence (CLAAD),law/consulting,"- 21 U.S.C. § 355(e) (FDCA section 505(e))
+- Other generics for Prednisone 1 mg are already on the market, implying potential approval viability",,,,2025-10-15,,,,,no decision,2017,3028.0
+fda-2017-p-4039,2017-07-03,False,Center for Lawful Access and Abuse Deterrence (CLAAD),law/consulting,"- 21 U.S.C. § 355(e) (FDCA section 505(e))
 - 21 C.F.R. §§ 314.162, 5.10, 5.82
 - 21 C.F.R. §§ 25.30(h), 25.31(h) (for environmental exclusion)","The petition comments on FDA’s current policy regarding the continued approval and marketing of non-abuse-deterrent opioid analgesics, and requests a change in enforcement to mandate conversion to abuse-deterrent formulations (ADOs).
 ","The petitioner asks the FDA to:
@@ -136,18 +136,18 @@ FDA-2017-P-4039,2017-07-03,False,Center for Lawful Access and Abuse Deterrence (
 - Remove products that are not converted within that time frame from the market.","- To mitigate the opioid overdose epidemic.
 - To align with federal policy goals including those expressed by the Trump Administration and the FDA’s Opioids Action Plan.
 - To address the public health and economic burden of opioid misuse and abuse.
-- Because scientific advancements in ADOs and regulatory precedents (e.g., ER oxycodone case) support such a transition.",,1.0,12/28/2017,2017-12-28,Center for Drug Evaluation and Research (CDER),,"The FDA states that the petition raises “complex issues requiring extensive review and analysis by Agency officials.” Therefore, a decision has not yet been reached.
+- Because scientific advancements in ADOs and regulatory precedents (e.g., ER oxycodone case) support such a transition.",,1.0,12/28/2017,2025-10-15,Center for Drug Evaluation and Research (CDER),,"The FDA states that the petition raises “complex issues requiring extensive review and analysis by Agency officials.” Therefore, a decision has not yet been reached.
 
-",,no decision,178.0
-FDA-2017-P-4145,2017-07-07,False,Mylan Pharmaceuticals Inc.,industry/corporation,"- Section 505(j)(2)(C) of the Federal Food, Drug, and Cosmetic Act
+",,no decision,2017,3026.0
+fda-2017-p-4145,2017-07-07,False,Mylan Pharmaceuticals Inc.,industry/corporation,"- Section 505(j)(2)(C) of the Federal Food, Drug, and Cosmetic Act
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 25.31 (Environmental Impact categorical exclusion)","The petition comments on the FDA’s current classification of azacitidine injectable products, specifically the dosage strength of the Reference Listed Drug (RLD), Vidaza® (100 mg/vial), and seeks permission to submit a 50 mg/vial product under an ANDA (Abbreviated New Drug Application).
 ","To permit the submission of an ANDA for Azacitidine for Injection, 50 mg/vial, based on the approved RLD Vidaza® 100 mg/vial, reflecting a change in strength while maintaining the same proportion of active and inactive ingredients.
 ","- The change in strength (100 mg/vial to 50 mg/vial) is allowed under FDA regulations if it maintains proportionality with the RLD.
 - The lower strength would provide greater dosing flexibility for physicians, based on hematological values.
 - No concerns about safety or efficacy, as both products would be quantitatively and qualitatively equivalent.
-- No change in route of administration or formulation—just a reduction in concentration and volume, with preserved proportions.",,,,,,,,,no decision,
-FDA-2017-P-4389,2017-07-21,False,"Wildway, LLC",industry/corporation,"- 21 C.F.R. § 101.60(c)(2)(v)
+- No change in route of administration or formulation—just a reduction in concentration and volume, with preserved proportions.",,,,2025-10-15,,,,,no decision,2017,3022.0
+fda-2017-p-4389,2017-07-21,False,"Wildway, LLC",industry/corporation,"- 21 C.F.R. § 101.60(c)(2)(v)
 - Section 403(r)(4) of the Federal Food, Drug, and Cosmetic Act
 - 21 C.F.R. § 101.60(b)
 - 21 C.F.R. § 101.60(c)(2)(i–iv)
@@ -159,16 +159,16 @@ FDA-2017-P-4389,2017-07-21,False,"Wildway, LLC",industry/corporation,"- 21 C.F.R
 - No products in the granola or cereal categories reasonably qualify as “low calorie” per 21 C.F.R. § 101.60(b); requiring a disclaimer for something that is clearly not expected misleads more than informs.
 - FDA’s own statements support limiting excessive label information to avoid overwhelming consumers.
 - Added sugars are a required declaration, not a claim, and should not require additional disclaimers.
-- Wildway asserts this added disclaimer constitutes unnecessary regulatory burden with no public health benefit",,,,,,,,,no decision,
-FDA-2017-P-4575,2016-11-15,False,Unilever,industry/corporation,"- 21 C.F.R. § 101.70 (Health Claims; Petitions)
+- Wildway asserts this added disclaimer constitutes unnecessary regulatory burden with no public health benefit",,,,2025-10-15,,,,,no decision,2017,3008.0
+fda-2017-p-4575,2016-11-15,False,Unilever,industry/corporation,"- 21 C.F.R. § 101.70 (Health Claims; Petitions)
 - Section 403(r)(3)(B)(i) of the Federal Food, Drug, and Cosmetic Act (FFDCA)","FDA's regulatory framework for approving health claims related to dietary fats and oils, particularly concerning the relationship between unsaturated fatty acids and coronary heart disease risk","Approve a new health claim stating that oils high in unsaturated fats may reduce the risk of coronary heart disease when replacing saturated fat, as part of a healthy diet
 ","- Scientific evidence supports a favorable association between dietary intake of unsaturated fatty acids and reduced risk of coronary heart disease (CHD).
 - The petition includes over 80 peer-reviewed human intervention and observational studies.
 - FDA had previously approved a similar claim for canola oil, and this request seeks to broaden it to include soybean, sunflower, corn, and other vegetable oils.
-- Approval would improve public health messaging by aligning dietary guidance with regulatory standards",,1.0,8/4/2017,2017-08-04,"Center for Food Safety and Applied Nutrition (CFSAN)
+- Approval would improve public health messaging by aligning dietary guidance with regulatory standards",,1.0,8/4/2017,2025-10-15,"Center for Food Safety and Applied Nutrition (CFSAN)
 ",,"Not Provided – This is an interim response only confirming the petition was filed. No substantive justification or evaluation is included.
-",,no decision,262.0
-FDA-2017-P-5082,2017-08-18,False,"ChromaDex, Inc.",industry/corporation,"- 21 C.F.R. §§ 10.25, 10.30 (Citizen petition procedure)
+",,no decision,2017,3256.0
+fda-2017-p-5082,2017-08-18,False,"ChromaDex, Inc.",industry/corporation,"- 21 C.F.R. §§ 10.25, 10.30 (Citizen petition procedure)
 - 21 U.S.C. § 342(a)(1), 342(f), 342(f)(1)(B), 350b (Adulterated foods & new dietary ingredients)
 - 21 U.S.C. §§ 332, 334 (Enforcement mechanisms: injunction & seizure)
 - 21 C.F.R. § 190.6 (New Dietary Ingredient Notification)
@@ -179,9 +179,9 @@ FDA-2017-P-5082,2017-08-18,False,"ChromaDex, Inc.",industry/corporation,"- 21 C.
 - Determine the unapproved ingredient (nicotinamide riboside) violates 21 U.S.C. § 350b, due to lack of NDI filing","- Laboratory analysis revealed Basis contains 96–144 mg/kg of toluene, a toxic industrial solvent not approved for ingestion
 - Elysium switched to a non-NIAGEN® nicotinamide riboside supplier with no FDA-recognized GRAS or NDIN
 - Chemical, packaging, and compositional discrepancies were confirmed through testing (e.g., solvents, impurities, metals, label differences)
-- Petition argues Elysium has not met FDA’s safety requirements for new dietary ingredients and is selling a product potentially injurious to health",,1.0,2/15/2018,2018-02-15,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA has not made a decision on the petition within the first 180 days due to competing agency priorities. However, the petition is currently under active evaluation
-",,no decision,181.0
-FDA-2017-P-5118,2017-08-18,False,"Gluten Free Watchdog, LLC",industry/corporation,"- Section 201(n), 301–303, and 403(a)(1) of the Federal Food, Drug, and Cosmetic Act (FFDCA); 21 U.S.C. §§ 321(n), 331–333, and 343(a)(1)
+- Petition argues Elysium has not met FDA’s safety requirements for new dietary ingredients and is selling a product potentially injurious to health",,1.0,2/15/2018,2025-10-15,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA has not made a decision on the petition within the first 180 days due to competing agency priorities. However, the petition is currently under active evaluation
+",,no decision,2017,2980.0
+fda-2017-p-5118,2017-08-18,False,"Gluten Free Watchdog, LLC",industry/corporation,"- Section 201(n), 301–303, and 403(a)(1) of the Federal Food, Drug, and Cosmetic Act (FFDCA); 21 U.S.C. §§ 321(n), 331–333, and 343(a)(1)
 - 21 C.F.R. Part 101.91 (Gluten-Free Labeling Rule)","Enforcement and compliance efforts under the Gluten-Free Labeling Rule, particularly relating to the labeling of products that are “gluten-free” despite containing prohibited ingredients such as barley malt, malt extract, and wheat
 ","- Establish a specific protocol for increased surveillance, investigation, and enforcement of “Facial Misbranding” violations under the Gluten-Free Labeling Rule
 - Implement an online reporting system for consumers to submit label violations
@@ -190,17 +190,17 @@ FDA-2017-P-5118,2017-08-18,False,"Gluten Free Watchdog, LLC",industry/corporatio
 - Current consumer reporting mechanisms are inadequate and not prioritized
 - Misbranded products remain on shelves despite FDA awareness
 - Enhanced enforcement is essential for protecting individuals with celiac disease
-- A structured and visible FDA protocol will deter violations and ensure labeling compliance",,1.0,2/13/2018,2018-02-13,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA has not reached a decision on the petition due to competing agency priorities. The agency states the petition is currently under active evaluation by its staff
-",,no decision,179.0
-FDA-2017-P-5335,2017-08-29,False,ANDA Consultants,law/consulting,"- 21 C.F.R. § 10.25(a)(2)
+- A structured and visible FDA protocol will deter violations and ensure labeling compliance",,1.0,2/13/2018,2025-10-15,Center for Food Safety and Applied Nutrition (CFSAN),,"The FDA has not reached a decision on the petition due to competing agency priorities. The agency states the petition is currently under active evaluation by its staff
+",,no decision,2017,2980.0
+fda-2017-p-5335,2017-08-29,False,ANDA Consultants,law/consulting,"- 21 C.F.R. § 10.25(a)(2)
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 314.122
 - 21 C.F.R. § 314.161
 - 21 C.F.R. § 25.31 (categorical exclusion – environmental impact)
 - 21 C.F.R. § 10.30(b) (economic impact disclosure)","The status in the Orange Book of Nexiclon™ XR (clonidine) Extended Release Tablets, NDA 22-500, which is listed as discontinued. The petitioner questions whether this discontinuation was due to safety or effectiveness reasons","The petitioner asks the FDA to determine that NDA 22-500 was not withdrawn for reasons of safety or effectiveness, so that it can be used as a reference listed drug (RLD) in ANDA submissions","- NDA 22-500 (Nexiclon™ XR) is currently in the Discontinued section of the Orange Book.
 - The petitioner asserts there is no indication that the discontinuation was due to safety or efficacy concerns.
-- A formal FDA determination is needed so that generic applicants can reference this NDA in their ANDAs",,,,,,,,,no decision,
-FDA-2017-P-5396,,False,"Multiple co-signatories:  Andrew Kolodny, M.D., Executive Director, Physicians for Responsible Opioid Prescribing (PROP)  Jay Butler, M.D., President, Association of State and Territorial Health Officials  Deborah A.P. Hersman, President & CEO, National Safety Council  Charles McKay, M.D., FACMT, President, American College of Medical Toxicology  Judy Rummler, Chair, FED UP! Coalition  Gary Mendell, Founder and CEO, Shatterproof",advocacy/academic,"- 21 C.F.R. § 10.30 (citizen petition regulation)
+- A formal FDA determination is needed so that generic applicants can reference this NDA in their ANDAs",,,,2025-10-15,,,,,no decision,2017,2969.0
+fda-2017-p-5396,,False,"Multiple co-signatories:  Andrew Kolodny, M.D., Executive Director, Physicians for Responsible Opioid Prescribing (PROP)  Jay Butler, M.D., President, Association of State and Territorial Health Officials  Deborah A.P. Hersman, President & CEO, National Safety Council  Charles McKay, M.D., FACMT, President, American College of Medical Toxicology  Judy Rummler, Chair, FED UP! Coalition  Gary Mendell, Founder and CEO, Shatterproof",advocacy/academic,"- 21 C.F.R. § 10.30 (citizen petition regulation)
 - 21 U.S.C. § 355(e) (section of the FD&C Act governing drug withdrawal)
 - 21 C.F.R. § 25.31(a) (environmental impact categorical exclusion)
 - Executive documents and public health reports also cited for context (e.g., CDC guidelines, National Academies recommendations)","The continued market availability of ultra-high dosage unit (UHDU) orally and transmucosally administered opioid analgesics, such as OxyContin 80 mg, IR oxycodone 30 mg, and others with daily doses exceeding 90 MME/day","The petitioners request that the FDA:
@@ -209,10 +209,10 @@ FDA-2017-P-5396,,False,"Multiple co-signatories:  Andrew Kolodny, M.D., Executiv
 - They pose high risks for misuse, accidental overdose, and death, especially among opioid-naïve users, children, and adolescents.
 - Studies show increased risk of overdose, addiction, and other adverse events at high dosages without proportional benefits in pain control.
 - Removing UHDUs could reduce morbidity and mortality, reverse risky prescribing norms, and have minimal burden on legitimate patients, who can use smaller doses or alternative formulations (e.g., liquids, patches).
-- Aligns with FDA’s new benefit-risk framework that weighs public health impact of misuse",,1.0,2/28/2018,2018-02-28,"Center for Drug Evaluation and Research (CDER)
+- Aligns with FDA’s new benefit-risk framework that weighs public health impact of misuse",,1.0,2/28/2018,2025-10-15,"Center for Drug Evaluation and Research (CDER)
 ",,"The petition raises significant issues that require extensive review and analysis by FDA officials. The Agency has not yet reached a decision but will respond once it does
-",,no decision,
-FDA-2017-P-5592,2017-09-06,False,International Isotopes Inc.,industry/corporation,"- Section 505(j) of the FD&C Act
+",,no decision,2017,
+fda-2017-p-5592,2017-09-06,False,International Isotopes Inc.,industry/corporation,"- Section 505(j) of the FD&C Act
 - 21 C.F.R. § 10.20
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 314.93
@@ -225,10 +225,10 @@ FDA-2017-P-5592,2017-09-06,False,International Isotopes Inc.,industry/corporatio
 - The solution form offers more flexible dosing than fixed-dose capsules (100/200 µCi).
 - The proposed manufacturing method would improve the purity of the radioactive product.
 - There is currently no RLD available for ANDA applicants for this solution strength, hindering generic development
-",,1.0,3/8/2018,2018-03-08,"Center for Drug Evaluation and Research (CDER)
+",,1.0,3/8/2018,2025-10-15,"Center for Drug Evaluation and Research (CDER)
 ",,"The FDA has not reached a decision due to the need to address other agency priorities. The petition, which requested a determination that Sodium Iodide I-123 oral solution was not discontinued for safety or effectiveness reasons, is still under review
-",,no decision,183.0
-FDA-2017-P-6211,,False,DSM Nutritional Products LLC,industry/corporation,"- 5 U.S.C. § 553(e) (Administrative Procedure Act)
+",,no decision,2017,2961.0
+fda-2017-p-6211,,False,DSM Nutritional Products LLC,industry/corporation,"- 5 U.S.C. § 553(e) (Administrative Procedure Act)
 - 21 C.F.R. §§ 10.25 and 10.30
 - Sections 201(n), 403A, and 701(a) of the Federal Food, Drug, and Cosmetic Act
 - 21 C.F.R. § 101.9(c)(8)(v) (subject of amendment request)
@@ -239,11 +239,11 @@ FDA-2017-P-6211,,False,DSM Nutritional Products LLC,industry/corporation,"- 5 U.
 - Simple names improve clarity and recognition of nutrient-fortified products
 - Simplified labels reduce space and increase appeal and trust in products
 - Harmonizes label language between Nutrition Facts and Ingredient Declaration
-- Promotes consumption of nutrient-dense foods and public health",,1.0,4/19/2018,2018-04-19,"Center for Food Safety and Applied Nutrition (CFSAN)
+- Promotes consumption of nutrient-dense foods and public health",,1.0,4/19/2018,2025-10-15,"Center for Food Safety and Applied Nutrition (CFSAN)
 ",,"Due to other agency priorities and limited availability of resources, the FDA was unable to reach a decision within 180 days of receiving the petition.
 
-",,no decision,
-FDA-2017-P-6357,2016-09-15,False,Diana Wierzchos,individual,"- The petition is submitted under the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act (no specific sections cited)
+",,no decision,2017,
+fda-2017-p-6357,2016-09-15,False,Diana Wierzchos,individual,"- The petition is submitted under the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act (no specific sections cited)
 ","The petitioner calls for the FDA to reform the U.S. food supply system, specifically regarding factory farming practices. The action is not in response to a specific FDA policy but a general petition to influence national food regulation standards, animal treatment policies, and public health considerations
 ","- Replace or drastically reduce the use of concentrated animal feeding operations (CAFOs)
 - Promote alternative, humane food production methods that are more sustainable and health-conscious
@@ -255,8 +255,8 @@ FDA-2017-P-6357,2016-09-15,False,Diana Wierzchos,individual,"- The petition is s
 
 - Animal welfare: Inhumane treatment, high animal mortality, and lack of rights protections
 - Economic & social concerns: Industrial farming undermines small farms and consumer rights; supports unsustainable systems with public subsidies
-- The petitioner urges the FDA to address these interconnected issues systemically.",,,,,,,,,no decision,
-FDA-2017-P-6631,2017-11-27,False,Amin Talati Upadhye LLP,law/consulting,"- 21 C.F.R. §§ 10.25 and 10.30 (Citizen petition authority)
+- The petitioner urges the FDA to address these interconnected issues systemically.",,,,2025-10-15,,,,,no decision,2017,3317.0
+fda-2017-p-6631,2017-11-27,False,Amin Talati Upadhye LLP,law/consulting,"- 21 C.F.R. §§ 10.25 and 10.30 (Citizen petition authority)
 - 21 U.S.C. § 321(ff)(1) (definition of dietary supplement)
 - 21 U.S.C. §§ 343, 301(a), 332, 334 (misbranding, adulteration, injunctions, seizure)
 - 21 U.S.C. § 350b (new dietary ingredient - NDI)
@@ -270,8 +270,8 @@ FDA-2017-P-6631,2017-11-27,False,Amin Talati Upadhye LLP,law/consulting,"- 21 C.
 - ZanthoSyn bears drug-like disease claims (e.g., anti-inflammatory, cholesterol lowering), making it an unapproved new drug.
 - The safety and efficacy of synthetic astaxanthin is unproven, with claims based on unrelated studies.
 - Consumers are misled by “physician endorsed” and “safe” claims, increasing public health risk
-",,,,,,,,,no decision,
-FDA-2017-P-6751,2017-12-05,False,Capstone Law APC,law/consulting,"- 21 U.S.C. § 343 (FDCA § 403)
+",,,,2025-10-15,,,,,no decision,2017,2879.0
+fda-2017-p-6751,2017-12-05,False,Capstone Law APC,law/consulting,"- 21 U.S.C. § 343 (FDCA § 403)
 - 21 C.F.R. § 10.60
 - 21 C.F.R. § 101.3(e)
 - 21 C.F.R. § 101.3(e)(4)
@@ -286,9 +286,9 @@ FDA-2017-P-6751,2017-12-05,False,Capstone Law APC,law/consulting,"- 21 U.S.C. §
 - It is nutritionally inferior to dairy milk across essential nutrients including protein, magnesium, potassium, phosphorus, zinc, and several vitamins (as shown in a detailed nutritional comparison table on page 6).
 - Consumers are misled by use of the term “milk” in the product’s identity despite its inferiority.
 - FDA precedent and prior guidance support labeling such products as “imitation” when they fail to meet nutritional equivalency.
-- Regulatory clarity is needed as courts have deferred to FDA on these labeling issues",,1.0,6/7/2018,2018-06-07,"Center for Food Safety and Applied Nutrition (CFSAN)
-",,The FDA stated it could not reach a decision within 180 days of the petition’s receipt or by the date of the letter due to other competing agency priorities. The agency will continue reviewing the petition and consider issuing guidance as warranted within the context of other program priorities,,no decision,184.0
-FDA-2017-P-6805,2017-12-08,False,Bracco Diagnostics Inc.,industry/corporation,"- Section 505(j) of the Federal Food, Drug, and Cosmetic Act (FDCA)
+- Regulatory clarity is needed as courts have deferred to FDA on these labeling issues",,1.0,6/7/2018,2025-10-15,"Center for Food Safety and Applied Nutrition (CFSAN)
+",,The FDA stated it could not reach a decision within 180 days of the petition’s receipt or by the date of the letter due to other competing agency priorities. The agency will continue reviewing the petition and consider issuing guidance as warranted within the context of other program priorities,,no decision,2017,2871.0
+fda-2017-p-6805,2017-12-08,False,Bracco Diagnostics Inc.,industry/corporation,"- Section 505(j) of the Federal Food, Drug, and Cosmetic Act (FDCA)
 - 21 C.F.R. § 10.30
 - 21 C.F.R. § 314.127(a)(6)(i)
 - 21 C.F.R. § 314.430(a)
@@ -299,17 +299,17 @@ FDA-2017-P-6805,2017-12-08,False,Bracco Diagnostics Inc.,industry/corporation,"-
 - The currently marketed formulation is significantly more stable and does not require overages.
 - The older formulation had higher levels of impurities, posing safety concerns.
 - Diagnostic standards (e.g., SNM guidelines for gallbladder function using GBEF) were established using the current formulation; using the older one could lead to false positives and improper surgeries.
-- Continued use of the old formulation risks public health by undermining the safety and effectiveness of diagnostic procedures",,1.0,5/31/2018,2018-05-31,Center for Drug Evaluation and Research (CDER),,"The FDA stated that the petition raises complex issues requiring extensive review and analysis by agency officials. As such, they were unable to make a final decision at the time and issued this interim response per regulatory requirements
-",,no decision,174.0
-FDA-2017-P-6967,2017-12-08,False,Natural Products Association (NPA) and Bergstrom Nutrition,advocacy/academic,"- Section 111.75(a)(1) of the Federal Food, Drug, and Cosmetic Act (FDC Act)
+- Continued use of the old formulation risks public health by undermining the safety and effectiveness of diagnostic procedures",,1.0,5/31/2018,2025-10-15,Center for Drug Evaluation and Research (CDER),,"The FDA stated that the petition raises complex issues requiring extensive review and analysis by agency officials. As such, they were unable to make a final decision at the time and issued this interim response per regulatory requirements
+",,no decision,2017,2868.0
+fda-2017-p-6967,2017-12-08,False,Natural Products Association (NPA) and Bergstrom Nutrition,advocacy/academic,"- Section 111.75(a)(1) of the Federal Food, Drug, and Cosmetic Act (FDC Act)
 ",The petition addresses the FDA’s 100 percent identity testing requirement for dietary ingredients in dietary supplement manufacturing,"The petitioners request that the FDA exempt dietary supplement manufacturers using OptiMSM® (from Bergstrom Nutrition) from the 100 percent identity testing requirement for dietary ingredients
 ","- OptiMSM® is a well-characterized ingredient with a consistent identity profile produced under strict manufacturing controls.
 - The petition argues that redundant testing imposes unnecessary regulatory burden and cost.
 - Petitioners suggest that a robust supplier verification program and validated Certificates of Analysis (CoAs) should suffice to confirm identity.
 - They highlight long-term use, product consistency, and quality assurance procedures in place at Bergstrom Nutrition.
 - The exemption would help reduce testing requirements without compromising product quality or safety
-",,,,,,,,,no decision,
-FDA-2017-P-7031,2017-12-22,False,"JR Rapoza Associates, Inc.",industry/corporation,"- 21 CFR § 10.20
+",,,,2025-10-15,,,,,no decision,2017,2868.0
+fda-2017-p-7031,2017-12-22,False,"JR Rapoza Associates, Inc.",industry/corporation,"- 21 CFR § 10.20
 - 21 CFR § 10.30
 - 21 CFR § 314.161
 - 21 CFR § 25.31 (environmental exclusion)","The petition addresses the lack of a currently marketed Reference Standard (RS) drug product for Thiamine Hydrochloride Injection 100 mg/ml, NDA 0080556, which was discontinued but not for safety/efficacy reasons. It seeks a new RS designation in the Orange Book","The petitioner requests that the FDA designate a new Reference Standard (RS) drug in the Orange Book for Thiamine Hydrochloride Injection 100 mg/ml in a vial to enable submission of bioequivalent ANDAs
@@ -317,8 +317,8 @@ FDA-2017-P-7031,2017-12-22,False,"JR Rapoza Associates, Inc.",industry/corporati
 - Current FDA guidance allows for designation of a new RS for discontinued drugs.
 - Other bioequivalent Thiamine Hydrochloride products are approved and could serve as RS.
 - Availability of a designated RS will facilitate ANDA submissions for generic injectable products.
-- The larger volume vial offers economic and dosing convenience benefits for healthcare providers",,,,,,,,,no decision,
-FDA-2017-P-7034,2017-12-19,False,Jubilant Generics Limited,industry/corporation,"- 21 U.S.C. § 355(j)(2)(C) (FDC Act)
+- The larger volume vial offers economic and dosing convenience benefits for healthcare providers",,,,2025-10-15,,,,,no decision,2017,2854.0
+fda-2017-p-7034,2017-12-19,False,Jubilant Generics Limited,industry/corporation,"- 21 U.S.C. § 355(j)(2)(C) (FDC Act)
 - 21 C.F.R. § 314.93
 - 21 C.F.R. § 10.20
 - 21 C.F.R. § 10.30
@@ -330,4 +330,4 @@ FDA-2017-P-7034,2017-12-19,False,Jubilant Generics Limited,industry/corporation,
 - Better palatability and dosing flexibility for pediatric and geriatric patients
 - Current tablets (500 mg unscored, 1 g partially scored) do not allow individualized dosing
 - No clinical trials needed due to established precedent and labeling data
-- 250 mg strength already marketed in UK by GLAXOSMITHKLINE",,,,,,,,,no decision,
+- 250 mg strength already marketed in UK by GLAXOSMITHKLINE",,,,2025-10-15,,,,,no decision,2017,2857.0
